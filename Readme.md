@@ -1,6 +1,6 @@
 # github-mcp-http-proxy
 
-**HTTP → stdio bridge for GitHub MCP server + Streamlit helpers**
+**HTTP → stdio bridge for GitHub MCP server **
 
 This repo bundles:
 - the official `github-mcp-server` (the MCP "stdio" server that executes toollike JSON actions)
